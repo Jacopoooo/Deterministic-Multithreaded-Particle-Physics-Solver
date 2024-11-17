@@ -1,0 +1,1 @@
+This project isn't finish. Honestly, i don't if I'll ever finish it.

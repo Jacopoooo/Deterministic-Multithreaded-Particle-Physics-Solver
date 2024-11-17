@@ -1,0 +1,6 @@
+#pragma once
+
+enum class RENDER_CONTEXT {
+	BUTTONS_CONTEXT,
+	SIMULATION_CONTEXT,
+};
